@@ -3,7 +3,7 @@ Estou em busca do conhecimento e desenvolvimento pessoal!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/davi-martins)
+)](https://www.linkedin.com/in/davi-martins-485b372b2/))
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davi19144&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi19144)](https://github.com/anuraghazra/github-readme-stats)
